@@ -1,4 +1,3 @@
-package my-project;
 
 import static org.junit.Assert.assertTrue;
 
